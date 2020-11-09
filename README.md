@@ -47,7 +47,7 @@
 <br />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexkobrin)](https://github.com/anuraghazra/github-readme-stats)
+<code align="left">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexkobrin)](https://github.com/anuraghazra/github-readme-stats)</code>
 
 [githubProfile]: https://github.com/alexkobrin
 [facebokProfile]: https://www.facebook.com/alexharamatsenka
