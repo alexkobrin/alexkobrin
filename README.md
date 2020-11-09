@@ -1,33 +1,32 @@
-## Hello, I'm Alex and do my best in Front-end side   👋
+## Hello, I'm Alex and I do my best in Front-end side   👋
 
 ### Few things about me: 
 
 - 👨 Calm and balanced person   
 - 📚 Interested in new technologies 
 - 💸 Trying to learn more about the financial system
-- 👯 I’m looking to collaborate with other developers
+- 👯 I’m looking for collaboration with other developers
 - 🔥 I will be happy to take part in interesting projects
 
 
 ### My Goals for 2020:
 
-- 🥅  Contribute more to  projects
-- 🗺️  Start learning typescript
-- 🌱  Be good in Javascript
-- 📊  Trying be better today, then yesterday
+- 🥅  Contribute more to open source projects
+- 🗺️  Start Typescript learning 
+- 🌱  Be good at Javascript
+- 📊  Trying to be better today, then yesterday
  
 
 ### Connect with me:
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][githubProfile]
 
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg" />][facebookProfile]
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg" />][facebokProfile]
 
 
 #### Or simple write 📧 to me:
    storyday2012@gmail.com
 
-<br />
 
 ### I'am work with these languages and tools:
  
