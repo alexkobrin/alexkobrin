@@ -23,12 +23,12 @@
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg" />][facebokProfile]
 
-
+<br/>
 #### Or simple write 📧 to me:
    storyday2012@gmail.com
 
 
-### I'am work with these languages and tools:
+### I'am working with these languages and tools:
  
 
 
