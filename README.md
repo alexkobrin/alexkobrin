@@ -22,8 +22,8 @@
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][githubProfile]
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg" />][facebokProfile]
-
 <br/>
+
 #### Or simple write 📧 to me:
    storyday2012@gmail.com
 
