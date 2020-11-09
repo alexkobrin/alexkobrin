@@ -45,8 +45,8 @@
 <img align="left"  height="20" width="26px" alt="Firebase" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
 
 <br />
-<br />
----
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 [githubProfile]: https://github.com/alexkobrin
