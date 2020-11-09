@@ -46,9 +46,12 @@
 
 <br />
 
-<div style="align:left">
+ 
+<div style="text-align: left;>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexkobrin)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
+
 
 
 [githubProfile]: https://github.com/alexkobrin
