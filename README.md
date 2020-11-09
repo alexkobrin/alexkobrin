@@ -1,32 +1,33 @@
-## Hello, I'm Alex    👋
+## Hello, I'm Alex and do my best in Front-end side   👋
 
 ### Few things about me: 
 
-- 👨    
-- 📚   
-- 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 👨 Calm and balanced person   
+- 📚 Interested in new technologies 
+- 💸 Trying to learn more about the financial system
+- 👯 I’m looking to collaborate with other developers
+- 🔥 I will be happy to take part in interesting projects
+
 
 ### My Goals for 2020:
 
 - 🥅  Contribute more to  projects
 - 🗺️  Start learning typescript
 - 🌱  Be good in Javascript
-- 📊  Be better today then yesterday
+- 📊  Trying be better today, then yesterday
  
 
 ### Connect with me:
 
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][]
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://github.com/alexkobrin]
 
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg" />][]
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg" />]["https://www.facebook.com/alexharamatsenka/"]
 
 
 <br />
 
 ### I'am work with these languages and tools:
 <br />
-
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
