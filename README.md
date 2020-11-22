@@ -12,8 +12,8 @@
 ### My Goals for 2020:
 
 - 🥅  Contribute more to open source projects
-- 🗺️  Start Vue learning 
-- 🗺️  Start Typescript learning 
+- 🗺️  Start <b>Vue</b> learning 
+- 🗺️  Start  <b>Typescript</b> learning 
 - 🌱  Be good at Javascript
 - 📊  Trying to be better today, then yesterday
  
