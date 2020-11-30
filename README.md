@@ -1,4 +1,4 @@
-## Hello, I'm Alex and I do my best in Front-end side   👋
+## Hello, I'm Alex and I do my best on Front-end side   👋
 
 ### Few things about me: 
 
