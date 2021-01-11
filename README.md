@@ -9,10 +9,9 @@
 - 🔥 I will be happy to take part in interesting projects
 
 
-### My Goals for 2020:
+### My Goals for 2021:
 
 - 🥅  Contribute more to open source projects
-- 🗺️  Start <b>Vue</b> learning 
 - 🗺️  Start  <b>Typescript</b> learning 
 - 🌱  Be good at Javascript
 - 📊  Trying to be better today, then yesterday
