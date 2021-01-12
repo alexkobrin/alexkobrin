@@ -13,7 +13,6 @@
 
 - 🥅  Contribute more to open source projects
 - 🗺️  Start  <b>Typescript</b> learning 
-- 🌱  Be good at Javascript
 - 📊  Trying to be better today, then yesterday
  
 
