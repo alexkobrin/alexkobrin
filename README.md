@@ -13,6 +13,7 @@
 
 - 🥅  Contribute more to open source projects
 - 🗺️  Start  <b>Typescript</b> learning 
+- 🗺️  Learning  <b>Express</b>  
 - 📊  Trying to be better today, then yesterday
  
 
