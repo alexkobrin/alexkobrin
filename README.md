@@ -14,6 +14,7 @@
 - 🥅  Contribute more to open source projects
 - 🗺️  Start  <b>Typescript</b> learning 
 - 🗺️  Learning  <b>Express</b>  
+- 🗺️  Better skills in  <b>Vue</b>
 - 📊  Trying to be better today, then yesterday
  
 
